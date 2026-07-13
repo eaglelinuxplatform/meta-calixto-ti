@@ -8,7 +8,7 @@ PV = "2.13+git"
 #SRCBRANCH = "master"
 
 #LIC_FILES_CHKSUM:am62lxx = "file://docs/license.rst;md5=1118e32884721c0be33267bd7ae11130"
-SRCREV_tfa:am62lxx = "87edff6572cea6ff67b74e7a58b936e8158b0b45"
+SRCREV_tfa:am62lxx = "ed9ae157d496b38d086d50d371b2dcf35ecde56c"
 PR:pn-trusted-firmware-a = "r1"
 SRC_URI_TRUSTED_FIRMWARE_A:am62lxx = "git://github.com/eaglelinuxplatform/calixto-ti-atf.git;protocol=https"
 SRCBRANCH:am62lxx = "v2.12"

@@ -6,6 +6,6 @@ PR = "r1"
 
 BRANCH = "2025.01"
 
-SRCREV_uboot = "b7d03b98769da50b5a52d8e112f33f3609ea386b"
+SRCREV_uboot = "818fb424e2ee80a0f543892e3d562c09c752afbe"
 
 
